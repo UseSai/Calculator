@@ -3,3 +3,110 @@
     margin: 0;
     padding: 0;
 }
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.calculator {
+    width: 300px;
+    height: 500px;
+    margin: 50px auto;
+    border: 2px solid #333;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.header {
+    
+}
+
+.display {
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 24px;
+    text-align: right;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    min-height: 30px;
+}
+
+.buttons {
+
+}
+
+.clear {
+
+}
+
+.division {
+
+}
+
+.multiplication {
+
+}
+
+.minus {
+
+}
+
+.seven {
+
+}
+
+.eight {
+
+}
+
+.nine {
+
+}
+
+.plus {
+
+}
+
+.four {
+
+}
+
+.five {
+
+}
+
+.six {
+
+}
+
+.equals {
+
+}
+
+.one {
+
+}
+
+.two {
+
+}
+
+.three {
+
+}
+
+.dot {
+
+}
+
+.zero {
+
+}
