@@ -40,11 +40,18 @@ a {
 }
 
 .buttons {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+}
 
+.buttons > * {
+    margin-bottom: 10px;
+    min-height: 50px;
 }
 
 .clear {
-
+    
 }
 
 .division {
@@ -108,5 +115,5 @@ a {
 }
 
 .zero {
-
+    grid-column: 4 / 4;
 }
