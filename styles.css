@@ -48,6 +48,15 @@ a {
 .buttons > * {
     margin-bottom: 10px;
     min-height: 50px;
+    font-size: 30px;
+}
+
+.number {
+    
+}
+
+.operation {
+    
 }
 
 .clear {
